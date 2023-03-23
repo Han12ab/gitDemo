@@ -6,5 +6,6 @@ public class lenovo1 {
         System.out.println("master test");
         System.out.println("host test");
         System.out.println("pull test");
+        System.out.println("push test");
     }
 }
