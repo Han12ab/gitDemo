@@ -8,7 +8,6 @@ public class lenovo1 {
         System.out.println("pull test");
         System.out.println("push test");
         System.out.println("gitee push");
-        System.out.println("gitee pull ");
-        System.out.println("change test");
+        System.out.println("change2 test");
     }
 }
