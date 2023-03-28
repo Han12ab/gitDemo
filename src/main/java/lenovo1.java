@@ -9,6 +9,6 @@ public class lenovo1 {
         System.out.println("push test");
         System.out.println("gitee push");
         System.out.println("gitee pull ");
-
+        System.out.println("测试是否可以同步项目的更改");
     }
 }
